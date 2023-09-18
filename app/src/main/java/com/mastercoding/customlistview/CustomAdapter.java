@@ -13,6 +13,7 @@ import androidx.annotation.Nullable;
 
 import java.util.ArrayList;
 
+//this is custom adapter pushed into main branch
 public class CustomAdapter extends ArrayAdapter<CountryModelClass> {
 
     private ArrayList<CountryModelClass> countryArraylist;

@@ -1,5 +1,6 @@
 package com.mastercoding.customlistview;
 
+//This is model class for custom list view
 public class CountryModelClass {
     private String country_name, cup_win_count;
     private int flag_img;
